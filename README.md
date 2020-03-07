@@ -11,7 +11,7 @@
 Mais detalhes leia LICENSE
 
 ## uso
-Para loga crie um banco de dado com as tabelas users e produto.
+Para loga crie um banco de dado com as tabelas users e produto,
 com estas variaves.
 #### users
 CREATE TABLE users(id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
