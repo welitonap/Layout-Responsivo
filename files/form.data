@@ -1,0 +1,237 @@
+$erro|
+		<div id="Dp"> 
+					<ul id="DpEr"> 
+				 		DATA INCORRETO 
+					</ul>
+ 
+					<ul id="DpMn"> 
+								<li id="ulUsSe" onclick="getE(this.id)"> Select </li>
+								<li id="ulUsUp" onclick="getE(this.id)"> Update </li>
+								<li id="ulUsCr" onclick="getE(this.id)"> Create </li>
+								<li id="ulUsDe" onclick="getE(this.id)"> Delet  </li>
+					</ul>
+		</div>
+
+   
+$fUser|
+		<div id="Dp"> 
+					<ul id="DpIn">
+					  
+					</ul>
+ 
+					<ul id="DpMn">
+								--> <li id="ulUsFi" onclick="getE(this.id)"> Filter </li> <--
+								<li id="ulUsSe" onclick="getE(this.id)"> Select </li>
+								<li id="ulUsUp" onclick="getE(this.id)"> Update </li>
+								<li id="ulUsCr" onclick="getE(this.id)"> Create </li>
+								<li id="ulUsDe" onclick="getE(this.id)"> Delet  </li>
+					</ul> 
+		</div>
+
+
+
+
+$fUserSe|
+		<div id="Dp">
+			<div id="DpIn">
+
+					<div class="inF" onclick="getE('DpIn')">
+						  <div id="img">
+ 								<img src="img/i_img.svg">
+						  </div>
+						  
+						  <div>
+ 
+						  </div>
+					</div>
+					
+					<div>  <div id="retur-statu" class="statu"> X</div>
+						<input onclick="getE(this.id)" id="Did"    type="text" value="">
+						<input onclick="getE(this.id)" id="Dnome"  type="text" value="">
+						<input onclick="getE(this.id)" id="Dpwd"   type="text" value="">
+						<input onclick="getE(this.id)" id="Demail" type="text" value="">
+						<input onclick="getE(this.id)" id="Dtipo"  type="text" value="">
+						<input onclick="getE(this.id)" id="Dpri"   type="text" value=""> 
+						<input onclick="getE(this.id)" id="Dimg"   type="text" value="">
+						<input onclick="getE(this.id)" id="Donoff" type="text" value=""> 
+						<textarea id="Dstatu" onclick="getE(this.id)"></textarea>
+						<div id="btView" onclick="getE(this.id)" class="bt"></div>
+					</div>
+			</div>
+			 
+			<ul id="DpMn">
+						--> <li id="ulUsFi" onclick="getE(this.id)"> Filter </li> <--
+						<li id="ulUsSe" onclick="getE(this.id)"> Select </li>
+						<li id="ulUsUp" onclick="getE(this.id)"> Update </li>
+						<li id="ulUsCr" onclick="getE(this.id)"> Create </li>
+						<li id="ulUsDe" onclick="getE(this.id)"> Delet  </li>
+			</ul> 
+			
+			<div id="hi_1" class="hi" onclick="getE(this.id)"></div>
+			<div id="hi_2" class="one" onclick="getE(this.id)"></div>
+			<ul id="DpFl">
+				
+				|*    --> INSERT DATA ON HERE <-- 		users  *|
+			</ul>
+
+			
+			
+		</div> 
+		
+
+
+  
+
+		
+		
+$fUserFi|
+		<div id="Dp">
+					<ul id="DpIn">
+				
+					</ul>
+					<ul id="DpMn">
+								--> <li id="ulUsFi" onclick="getE(this.id)"> Filter </li><--
+								<li id="ulUsSe" onclick="getE(this.id)"> Select </li>
+								<li id="ulUsUp" onclick="getE(this.id)"> Update </li>
+								<li id="ulUsCr" onclick="getE(this.id)"> Create </li>
+								<li id="ulUsDe" onclick="getE(this.id)"> Delet  </li>
+					</ul>
+					--> <div id="DpFl">
+										|* -- > INSERT DATA ON HERE < -- users *| 
+					</div><--
+					
+		</div>
+		
+
+
+
+
+$fUserUp|
+		<div id="Dp">
+					 <div id="disEdit">
+						AAA
+					 </div>
+
+					<div class="liEdit">
+						<ul class="meUl">
+							--> <li id="ulUsFi" onclick="getE(this.id)"> Filter </li><--
+							<li id="ulUsSe" onclick="getE(this.id)"> Select </li>
+							<li id="ulUsUp" onclick="getE(this.id)"> Update </li>
+							<li id="ulUsCr" onclick="getE(this.id)"> Create </li>
+							<li id="ulUsDe" onclick="getE(this.id)"> Delet  </li>
+						</ul>
+					</div>
+		</div> 
+		
+		
+
+
+$fUserCr|
+		<div id="Dp">
+					 <div id="disEdit">
+						AAA
+					 </div>
+
+					<div class="liEdit">
+						<ul class="meUl">
+							--> <li id="ulUsFi" onclick="getE(this.id)"> Filter </li><--
+							<li id="ulUsSe" onclick="getE(this.id)"> Select </li>
+							<li id="ulUsUp" onclick="getE(this.id)"> Update </li>
+							<li id="ulUsCr" onclick="getE(this.id)"> Create </li>
+							<li id="ulUsDe" onclick="getE(this.id)"> Delet  </li>
+						</ul>
+					</div>
+		</div> 
+		
+		
+		
+		
+		
+		
+
+$fUserDe|
+		<div id="Dp">
+					 <div id="disEdit">
+						AAA
+					 </div>
+
+					<div class="liEdit">
+						<ul class="meUl">
+							--> <li id="ulUsFi" onclick="getE(this.id)"> Filter </li><--
+							<li id="ulUsSe" onclick="getE(this.id)"> Select </li>
+							<li id="ulUsUp" onclick="getE(this.id)"> Update </li>
+							<li id="ulUsCr" onclick="getE(this.id)"> Create </li>
+							<li id="ulUsDe" onclick="getE(this.id)"> Delet  </li>
+						</ul>
+					</div>
+		</div> 
+
+
+
+
+
+
+--> USERS ------------------------------------------------------------------------------------------------------------ <--
+--> PROPERT OF IN FORM <--
+$fProd|
+		<div id="Dp"> 
+					<ul id="DpIn">
+					  
+					</ul>
+ 
+					<ul id="DpMn">
+								<li id="ulPrSe" onclick="getE(this.id)"> Select </li>
+								<li id="ulPrUp" onclick="getE(this.id)"> Update </li>
+								<li id="ulPrCr" onclick="getE(this.id)"> Create </li>
+								<li id="ulPrDe" onclick="getE(this.id)"> Delet  </li>
+					</ul> 
+		</div>
+ 
+$fProdSe|
+
+		<div id="Dp">
+			<div id="DpIn">
+
+					<div class="inF" onclick="getE('DpIn')">
+						  <div id="img">
+ 								<img src="img/i_img.svg">
+						  </div>
+						  
+						  <div>
+ 
+						  </div>
+					</div>
+					
+					<div> <div id="retur-statu" class="statu"> X</div>
+						<input onclick="getE(this.id)" id="Did"   type="text" value="">
+						<input onclick="getE(this.id)" id="Dcod"  type="text" value="">
+						<input onclick="getE(this.id)" id="Dtipo" type="text" value="">
+						<input onclick="getE(this.id)" id="Dnome" type="text" value="">
+						<input onclick="getE(this.id)" id="Dquan" type="text" value="">
+						<input onclick="getE(this.id)" id="Dimg"  type="text" value=""> 
+						<input onclick="getE(this.id)" id="Dscu"  type="text" value=""> 
+					-->	<textarea id="D_statu" onclick="getE(this.id)"></textarea> <--
+						
+						<div id="btView" onclick="getE(this.id)" class="bt"></div>
+						
+					</div>
+			</div>
+			 
+			<ul id="DpMn">
+								<li id="ulPrSe" onclick="getE(this.id)"> Select </li>
+								<li id="ulPrUp" onclick="getE(this.id)"> Update </li>
+								<li id="ulPrCr" onclick="getE(this.id)"> Create </li>
+								<li id="ulPrDe" onclick="getE(this.id)"> Delet  </li>
+			</ul>
+			
+			
+			<div id="hi_1" class="hi" onclick="getE(this.id)"></div>
+			<div id="hi_2" class="one" onclick="getE(this.id)"></div>
+			<ul id="DpFl"> 
+				<div id="retur-statu" class="statu"> X</div>
+				|*    --> SELECT DATA OF USERS <-- produto  *|
+			</ul>
+
+			
+			
+		</div> 

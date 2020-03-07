@@ -1,0 +1,96 @@
+-->
+      PROPERT USERS
+<--
+
+$ulUsSe|
+		<div id="ppEd">
+			<div>
+				<img src="img/i_img.svg"/>
+			</div>
+			
+			<div>
+				<ul>
+					<li><input type="text" value=""></li>
+					<li><input type="text" value=""></li>
+					<li><input type="text" value=""></li>
+					<li><input type="text" value=""></li>
+					<li><input type="text" value=""></li>
+				<ul>
+			</div>
+			
+			<div>
+				<ul>
+					<li><input type="text"></li>
+					<li><input type="text"></li>
+					<li><input type="text"></li>
+					<li><input type="text"></li>
+					 
+				<ul>
+			</div>
+			
+			<div>
+				 
+			</div>
+		</div>
+
+
+$ulUsUp|
+		<div id="ppEd">
+			<div><img src="img/i_img.svg"/></div>
+			<div>02 ulUsUp</div>
+			<div>03 ulUsSe</div>
+			<div>03 ulUsSe</div>
+		</div>
+
+
+$ulUsCr|
+		<div id="ppEd">
+			<div><img src="img/i_img.svg"/></div>
+			<div>02 ulUsCr</div>
+			<div>03 ulUsCr</div>
+			<div>03 ulUsSe</div>
+		</div>
+
+$ulUsDe|
+		<div id="ppEd">
+			<div><img src="img/i_img.svg"/></div>
+			<div>02 ulUsDe</div>
+			<div>03 ulUsDe</div>
+			<div>03 ulUsSe</div>
+		</div>
+
+-->
+      PROPERT PRODUTO
+<--
+
+$ulPrSe|
+		<div id="ppEd">
+			<div><img src="img/i_img.svg"/></div>
+			<div>02 ulPrSe</div>
+			<div>03 ulPrSe</div> 
+			<div>03 ulUsSe</div>
+		</div>
+
+$ulPrUp|
+		<div id="ppEd">
+			<div><img src="img/i_img.svg"/></div>
+			<div>02 ulPrUp</div>
+			<div>03 ulPrUp</div>
+			<div>03 ulUsSe</div>
+		</div>
+
+$ulPrCr|
+		<div id="ppEd">
+			<div><img src="img/i_img.svg"/></div>
+			<div>02 ulPrCr</div>
+			<div>03 ulPrCr</div>
+			<div>03 ulUsSe</div>
+		</div>
+
+$ulPrDe|
+		<div id="ppEd">
+			<div><img src="img/i_img.svg"/></div>
+			<div>02 ulPrDe</div>
+			<div>03 ulPrDe</div>
+			<div>03 ulUsSe</div>
+		</div>

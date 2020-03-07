@@ -1,0 +1,8 @@
+ /* CSS Document */
+@charset "UTF-8"; 
+
+#body{
+	background-color: hsla(72,50%,50%,0.8);
+/** /	outline: 1px solid black;/**/
+	margin: 0 auto;
+}

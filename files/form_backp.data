@@ -1,0 +1,183 @@
+--> 
+
+COMENTARIO INICIO
+
+$fDatas|
+		<div id="fDatas">
+			<form>
+				<fieldset>
+					<span> Create Users</span>
+					<div>
+				 		<input type="text" id="dataBaseName">
+					</div>
+					
+					<div id="bu">
+						<div class="button">Create</div>
+						<div class="button">Cancel</div>
+					</div>
+				</fieldset>
+			</form>
+		</div>
+
+
+$fTable|
+		<div id="fTable">
+			<form>
+				<fieldset>
+					<span> Create Table</span>
+					<div>
+						<textarea></textarea>
+					</div>
+					<div id="bu">
+						<div class="button">Create</div>
+						<div class="button">Cancel</div>
+					</div>
+				</fieldset>
+			</form>
+		</div>
+
+
+$fUser|
+		<div id="fUser" class="one">
+			<form>
+				<fieldset>
+					<span> Create Users</span>
+					<div>
+						<div class="do">
+							<input type="text" id="dataBaseName">
+							<input type="text" id="dataBaseName">
+						</div>
+						<input type="text" id="dataBaseName">
+						<input type="text" id="dataBaseName">
+	
+						<div class="do">
+							<input type="text" id="dataBaseName">
+							<select class="sel">
+								<option value=""></option>
+								<option value="1">1</option>
+								<option value="2">2</option>
+								<option value="3">3</option>
+								<option value="4">4</option>
+								<option value="5">5</option>
+							</select>
+							
+							<select class="sel">
+								<option value=""></option>
+								<option value="1">1</option>
+								<option value="2">2</option>
+								<option value="3">3</option>
+								<option value="4">4</option>
+								<option value="5">5</option>
+							</select>
+						</div>
+						<input type="file" id="dataBaseName">
+						<textarea type="text"></textarea>
+					</div>
+					<div id="bu">
+						<div class="button">Create</div>
+						<div class="button">Cancel</div>
+					</div>
+				</fieldset>
+			</form>
+		</div>
+
+COMENTARIO FIM
+<-- 
+
+$fUser|
+		<div id="fUser">
+			<div id="ulMenuEdit" class="men one">
+				<div id="lEDD" class="list">WELITON ALVES PEREIRA</div>
+				
+				<div class="liEdit">
+				
+					<ul class="meUl">
+						<li id="ulUsSe" onclick="getEfBu(this.id)"> Select </li>
+						<li id="ulUsUp" onclick="getEfBu(this.id)"> Update </li>
+						<li id="ulUsCr" onclick="getEfBu(this.id)"> Create </li>
+						<li id="ulUsDe" onclick="getEfBu(this.id)"> Delet  </li>
+					</ul>
+					
+					<div id="hiddSelec" onclick="getEfBu(this.id)"></div>
+				</div>
+				
+			</div>
+			<ul id="listData">
+			
+			
+			
+			|*  
+			--> SELECT DATA USERS <--
+				 
+				users  
+				 
+			*| 
+			
+			 	<li id="li1" onclick="getEfBu(this.id)" class="li1"> WELITON ALVES PEREIRA </li>
+				<li id="li1" onclick="getEfBu(this.id)" class="li1"> WELITON ALVES PEREIRA </li>
+				<li id="li1" onclick="getEfBu(this.id)" class="li1"> WELITON ALVES PEREIRA </li>
+				<li id="li1" onclick="getEfBu(this.id)" class="li1"> WELITON ALVES PEREIRA </li>
+				<li id="li1" onclick="getEfBu(this.id)" class="li1"> WELITON ALVES PEREIRA </li>
+				<li id="li1" onclick="getEfBu(this.id)" class="li1"> WELITON ALVES PEREIRA </li>
+				<li id="li1" onclick="getEfBu(this.id)" class="li1"> WELITON ALVES PEREIRA </li>
+				<li id="li1" onclick="getEfBu(this.id)" class="li1"> WELITON ALVES PEREIRA </li>
+				<li id="li1" onclick="getEfBu(this.id)" class="li1"> WELITON ALVES PEREIRA </li>
+				<li id="li1" onclick="getEfBu(this.id)" class="li1"> WELITON ALVES PEREIRA </li>
+			 
+				<li id="li1" onclick="getEfBu(this.id)" class="li1"> WELITON ALVES PEREIRA </li>
+				<li id="li1" onclick="getEfBu(this.id)" class="li1"> WELITON ALVES PEREIRA </li>
+				<li id="li1" onclick="getEfBu(this.id)" class="li1"> WELITON ALVES PEREIRA </li>
+				<li id="li1" onclick="getEfBu(this.id)" class="li1"> WELITON ALVES PEREIRA </li>
+				<li id="li1" onclick="getEfBu(this.id)" class="li1"> WELITON ALVES PEREIRA </li>
+				<li id="li1" onclick="getEfBu(this.id)" class="li1"> WELITON ALVES PEREIRA </li>
+				<li id="li1" onclick="getEfBu(this.id)" class="li1"> WELITON ALVES PEREIRA </li>
+				<li id="li1" onclick="getEfBu(this.id)" class="li1"> WELITON ALVESs PEREIRA </li>
+			</ul>
+		</div>  
+
+
+-->
+TEST FORMES
+<--
+
+$fProd|
+
+		<div id="fUser">
+			<div id="ulMenuEdit" class="men one">
+				
+				<div id="lEDD" class="list">WELITON AL ES PEREIRA</div>
+				<div class="liEdit">
+				
+					<ul class="meUl">
+						<li id="ulPrSe"  onclick="getEfBu(this.id)"> Select </li>
+						<li id="ulPrUp"  onclick="getEfBu(this.id)"> Update </li>
+						<li id="ulPrCr"  onclick="getEfBu(this.id)"> Create </li>
+						<li id="ulPrDe"  onclick="getEfBu(this.id)"> Delet  </li>
+					</ul>
+					<div id="hiddSelec" onclick="getEfBu(this.id)"></div>
+				</div>
+				
+			</div>
+			<ul id="listData">
+				
+				<li id="li1" onclick="getEfBu(this.id)" class="li1"> WELITON ALVES PEREIRA </li>
+			|*  
+			--> SELECT DATA USERS <--
+				 
+				users  
+				 
+			*| 
+			
+			--> 
+				EXEMPLE TEXT THE TABLE
+			 	<li id="li1" onclick="getEfBu(this.id)" class="li1"> WELITON ALVES PEREIRA </li>
+				<li id="li1" onclick="getEfBu(this.id)" class="li1"> WELITON ALVES PEREIRA </li>
+				<li id="li1" onclick="getEfBu(this.id)" class="li1"> WELITON ALVES PEREIRA </li>
+			<-- 
+				
+				<li id="li1" onclick="getEfBu(this.id)" class="li1"> WELITON ALVES PEREIRA </li>
+				
+			</ul>
+		</div>
+		
+		
