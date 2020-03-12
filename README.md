@@ -1,5 +1,5 @@
 # Layout Responsivo
- Page responsiva e systemade Login
+ Page responsiva e systema de Login
 
 ## GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
